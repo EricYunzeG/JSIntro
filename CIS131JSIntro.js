@@ -11,6 +11,7 @@
 */
 
 //declear the variables
+//we can also use 'var' to declear a vaiable
 let celsius = 32;
 let fahrenheit = celsius * 9 / 5 + 32;
 //display the result
